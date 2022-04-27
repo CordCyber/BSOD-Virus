@@ -3,7 +3,7 @@
 Папка WindowsFormsApp2 там проект не вируса который вызывает синий екран смерти а ТИПО ПАНЕЛЬ НАЧИСЛЕНИЯ ДЕНЕГ СТИМ в проекте надо изменить при нажимании на кнопку открываеться
 картинка anon.png, и exe файл в нашем случие это NEZAPUSKATY ETO BSOD SINYI EKRAN.exe вам надо поменять путь и все. Папка WindowsFormsApp2 там проект
 иммено с вирусом который вызывает синий екран смерти, с компом по идеё ничего не должно быть надо будет перезагрузить и все!
-![изображение](https://user-images.githubusercontent.com/103395079/165517289-76ebbbc8-9d2c-4a67-a7b7-b696eb315335.png)
+![Uploading Безымянный.png…]()
 
 ##  Credits:
 > [![](https://user-images.githubusercontent.com/103395079/164997981-5356a76b-d1d3-427c-a6ca-3b4a25a73691.gif?size=40)](https://github.com/CordCyber)
